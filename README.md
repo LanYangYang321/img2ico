@@ -19,4 +19,10 @@ A simple Python script that converts an image file to the ICO (icon) format.
   ```bash
   pip install Pillow
 
+## Installation
 
+- **clone** Clone this repository::
+  ```bash
+  git clone https://github.com/LanYangYang321/img2ico.git
+  cd img2ico
+  pip install Pillow
